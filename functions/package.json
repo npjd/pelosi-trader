@@ -15,8 +15,11 @@
   },
   "main": "lib/index.js",
   "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^2.15.0",
     "firebase-admin": "^10.0.2",
-    "firebase-functions": "^3.21.2"
+    "firebase-functions": "^3.21.2",
+    "openai": "^3.0.0",
+    "puppeteer": "^14.4.1"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.12.0",
